@@ -15,6 +15,7 @@
   "author": "Melanie Burger",
   "license": "GPL-3.0",
   "devDependencies": {
+    "@tsconfig/node18": "^1.0.1",
     "typescript": "^5.0.4"
   }
 }
