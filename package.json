@@ -1,7 +1,7 @@
 {
   "name": "sim-systems",
   "version": "0.1.0",
-  "description": "design a system that satisfies arbitrary SLAs",
+  "description": "Design a system that satisfies arbitrary SLAs as a game.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "game"
   ],
   "author": "Melanie Burger",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "devDependencies": {
     "typescript": "^5.0.4"
   }
