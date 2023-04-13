@@ -2,7 +2,7 @@
   "name": "sim-systems",
   "version": "0.1.0",
   "description": "Design a system that satisfies arbitrary SLAs as a game.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,8 @@
   "devDependencies": {
     "@tsconfig/node18": "^1.0.1",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "three": "^0.151.3"
   }
 }
